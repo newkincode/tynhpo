@@ -1,6 +1,7 @@
 # tynhpo
-python인듯 아닌듯
-
+<div align="center">
+  python인듯 아닌듯
+</div>
 # 사용법
 ```
 s : 스텍값
