@@ -1,7 +1,5 @@
 # tynhpo
-<div align="center">
-  python인듯 아닌듯
-</div>
+<h1 align="center">tynhpo</h1>
 # 사용법
 ```
 s : 스텍값
