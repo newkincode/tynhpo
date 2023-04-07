@@ -1,5 +1,5 @@
 <h1 align="center">tynhpo</h1>
-# 사용법
+<h1 align="center">사용법</h1>
 <p align="center">
 s : 스텍값<br>
 + : 스텍에 1을 넣음<br>
